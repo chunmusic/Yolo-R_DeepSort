@@ -30,13 +30,6 @@ pip install -r requirement.txt
 
 ## How to use
 
-**Training**
-* Training method is based on yolor original repository. (Please find more in reference)
-```python
-python train.py --batch-size 8 --img 1280 1280 --data coco.yaml --cfg cfg/yolor_p6.cfg --weights '' --device 0 --name yolor_p6 --hyp hyp.scratch.1280.yaml --epochs 300
-
-```
-
 **Inference**
 * Run the following command to test inference with video file.
 
