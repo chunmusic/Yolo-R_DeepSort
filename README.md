@@ -1,6 +1,6 @@
 # Yolo-R DeepSort
 
-- This repository is created by mixing Yolo-R object detection and Deepsort algorithm.
+- This repository was built by combining Yolo-R object detection and Deepsort algorithm.
 
 ## Installation
 1. First, clone the repository.
