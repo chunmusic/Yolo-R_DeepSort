@@ -2,8 +2,6 @@
 
 - This repository is created by mixing Yolo-R object detection and Deepsort algorithm.
 
-- The model was trained based on SSD Inception V2 architecture by Tensorflow 1.
-
 ## Installation
 1. First, clone the repository.
 ```python
